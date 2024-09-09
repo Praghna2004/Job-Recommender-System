@@ -27,4 +27,4 @@ The result saved to Cleaned_Dataset/ directory.
 # Series of commands
 - cd Code/
 - python data_cleaning.py
-- streamlit run model.py 
+- python -m streamlit run model.py 
